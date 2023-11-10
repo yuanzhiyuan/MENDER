@@ -15,7 +15,7 @@ pip install SOMENDER
 
 After installation, you can import SOMENDER in your Python script like this:
 
-```python
+```bash
 import SOMENDER
 ```
 
