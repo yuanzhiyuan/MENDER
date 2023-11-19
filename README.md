@@ -8,7 +8,7 @@ Welcome to the SOMENDER package repository. This Python package allows you to ea
 You can install the SOMENDER package using pip. Run the following command in your terminal:
 
 ```bash
-pip install SOMENDER
+pip install SOMENDER==1.1
 ```
 
 ## Getting Started
@@ -16,7 +16,7 @@ pip install SOMENDER
 After installation, you can import SOMENDER in your Python script like this:
 
 ```bash
-import SOMENDER
+import MENDER
 ```
 
 For more information on how to use SOMENDER, please visit the [official documentation](https://mender-tutorial.readthedocs.io/en/latest/).
