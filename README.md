@@ -1,5 +1,7 @@
 
 # SOMENDER Package
+[![DOI](https://zenodo.org/badge/716835343.svg)](https://zenodo.org/doi/10.5281/zenodo.10216989)
+
 
 Welcome to the SOMENDER package repository. This Python package allows you to easily integrate SOMENDER into your projects.
 
