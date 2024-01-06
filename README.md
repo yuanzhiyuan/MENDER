@@ -23,4 +23,6 @@ import MENDER
 
 For more information on how to use MENDER, please visit the [official documentation](https://mender-tutorial.readthedocs.io/en/latest/).
 
-Thank you for using MENDER!
+## Cite
+<br>
+Yuan, Z. MENDER: fast and scalable tissue structure identification in spatial omics data. Nat Commun 15, 207 (2024). https://doi.org/10.1038/s41467-023-44367-9
